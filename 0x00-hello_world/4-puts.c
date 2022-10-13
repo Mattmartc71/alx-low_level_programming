@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Programming is like building multilingual puzzle.
+ * main - Programming is like building multilingual puzzle
  *
- * return - return zero if no code error.
+ * return: zero if no code error (success)
  */
 int main(void)
 {
