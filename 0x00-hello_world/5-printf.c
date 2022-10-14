@@ -2,7 +2,7 @@
 
 /**
  * main - with proper grammar, but the outcome is a piece of art,
- * return: if no code error, return 0 (success)
+ * Return: Always 0 (success)
  */
 int main(void)
 {
